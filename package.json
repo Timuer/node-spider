@@ -1,0 +1,28 @@
+{
+  "name": "baidu-pictures-spider",
+  "version": "1.0.0",
+  "description": "use node.js and puppeteer library to get pictures on baidu website",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js",
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Timuer/node-spider.git"
+  },
+  "keywords": [
+    "spider",
+    "baidu",
+    "pictures"
+  ],
+  "author": "Timuer",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Timuer/node-spider/issues"
+  },
+  "homepage": "https://github.com/Timuer/node-spider#readme",
+  "dependencies": {
+    "puppeteer": "^1.6.0"
+  }
+}
